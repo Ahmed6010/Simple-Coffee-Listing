@@ -20,7 +20,7 @@ The "Simple Coffee Listing" web page provides a simple and elegant layout for sh
 
 ## Preview
 
-[![Simple Coffee Listing Preview](preview.JPEG)]
+[![Simple Coffee Listing Preview](preview.jpeg)]
 
 
 
